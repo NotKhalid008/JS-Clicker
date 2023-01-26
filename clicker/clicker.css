@@ -1,0 +1,22 @@
+body {
+    background-color: #333;
+}
+.display {
+    border: 3px solid black;
+    width: 85px;
+    height: 35px;
+    border-radius: 3px;
+    background-color: white;
+}
+.btn {
+    width: 27px;
+    height: 25px;
+    border: 3px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#show {
+    font-family:sans-serif;
+    text-align: center;
+    padding-bottom: 5px;
+}
